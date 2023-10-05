@@ -1,0 +1,12 @@
+name = "JuliaHubWebinarApp"
+uuid = "8c942a8c-283c-48a7-9532-89909a7cbf9c"
+authors = ["JuliaHub Inc."]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuliaHub = "bc7fa6ce-b75e-4d60-89ad-56c957190b6e"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
